@@ -1,0 +1,1709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NotikaIdentityEmail.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NotikaIdentityEmail.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login_v4\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login_v4\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v4\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Login_v4\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login_v4\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\index.html",
+      "PackagePath": "staticwebassets\\Login_v4\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login_v4\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\Login_v4\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login_v4\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\css\\nunito-font.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\css\\nunito-font.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\css\\style.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\fonts\\Nunito\\OFL.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\fonts\\Nunito\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\images\\form-v9.jpg",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\images\\form-v9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\index.html",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\colorlib-regform-35\\readme.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-35\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\README.md",
+      "PackagePath": "staticwebassets\\notika-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\css\\32px.png",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\css\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\css\\style.css",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\css\\throbber.gif",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\css\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\css\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\css\\tree-viewer.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\img\\logo.png",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\index.html",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\js\\jquery-3.1.0.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\js\\jquery-3.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\js\\jstree.active.js",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\js\\jstree.active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\documentation\\js\\jstree.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\documentation\\js\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\404.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\accordion.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\alert.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\alert.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\analytics.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\analytics.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\animations.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\animations.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\area-charts.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\area-charts.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\bar-charts.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\bar-charts.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\buttons.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\code-editor.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\code-editor.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\color.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\color.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\compose-email.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\compose-email.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\contact.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\animate.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\animation\\animation-custom.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\animation\\animation-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\bootstrap-select\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\bootstrap-select\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\code-editor\\1.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\code-editor\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\code-editor\\ambiance.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\code-editor\\ambiance.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\code-editor\\codemirror.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\code-editor\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\color-picker\\farbtastic.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\color-picker\\farbtastic.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\color-picker\\marker.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\color-picker\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\color-picker\\mask.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\color-picker\\mask.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\color-picker\\wheel.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\color-picker\\wheel.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\dialog\\dialog.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\dialog\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\dialog\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\dialog\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\jvectormap\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\jvectormap\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\main.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\meanmenu\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\meanmenu\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\metisMenu\\metisMenu-vertical.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\metisMenu\\metisMenu-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\metisMenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\metisMenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\notification\\notification.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\notika-custom-icon.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\notika-custom-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\scrollbar\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\scrollbar\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\themesaller-forms.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\themesaller-forms.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\wave\\button.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\wave\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\css\\wave\\waves.min.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\css\\wave\\waves.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\data-map.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\data-map.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\data-table.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\data-table.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\dialog.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\dropdown.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\flot-charts.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\flot-charts.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.eot",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.svg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.ttf",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.woff",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\fonts\\notika-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\form-components.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\form-components.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\form-elements.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\form-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\form-examples.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\form-examples.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\google-map.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\google-map.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\image-cropper.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\image-cropper.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\select.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\select.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\country\\1.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\country\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\country\\2.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\country\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\country\\3.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\country\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\cropper\\1.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\cropper\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\dialog\\like.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\dialog\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\green1.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\green1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\post\\1.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\post\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\post\\2.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\post\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\post\\4.jpg",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\post\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\baidu.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\baidu.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\bing.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\bing.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\duckduckgo.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\duckduckgo.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\google.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\yahoo.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\yahoo.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\search-engines\\yandex.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\search-engines\\yandex.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\widgets\\2.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\widgets\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\widgets\\4.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\widgets\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\img\\widgets\\6.png",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\img\\widgets\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\inbox.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\inbox.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\index-2.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\index-2.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\index-3.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\index-3.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\index-4.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\index-4.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\index.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\invoice.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\animation\\animation-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\animation\\animation-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\autosize.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\autosize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\bootstrap-select\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\bootstrap-select\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\charts\\Chart.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\charts\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\charts\\area-chart.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\charts\\area-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\charts\\bar-chart.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\charts\\bar-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\charts\\line-chart.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\charts\\line-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\chat\\jquery.chat.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\chat\\jquery.chat.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\chat\\moment.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\chat\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\code-editor\\code-editor-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\code-editor\\code-editor-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\code-editor\\code-editor.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\code-editor\\code-editor.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\code-editor\\codemirror.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\code-editor\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\color-picker\\color-picker.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\color-picker\\color-picker.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\color-picker\\farbtastic.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\color-picker\\farbtastic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\counterup\\counterup-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\counterup\\counterup-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\counterup\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\counterup\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\cropper\\cropper-actice.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\cropper\\cropper-actice.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-map\\d3.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-map\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-map\\data-maps-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-map\\data-maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-map\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-map\\datamaps.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-map\\topojson.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-map\\topojson.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-table\\data-table-act.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-table\\data-table-act.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\datapicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\datapicker\\datepicker-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\dialog\\dialog-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\dialog\\dialog-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\dialog\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\dialog\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\easytopie\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\easytopie\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\easytopie\\salvattore.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\easytopie\\salvattore.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\analtic-flot-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\analtic-flot-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\chart-tooltips.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\chart-tooltips.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\curvedLines.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\curvedLines.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\flot-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\flot-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\flot-widget-anatic-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\flot-widget-anatic-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.orderBars.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.orderBars.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\google.maps\\google.maps-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\google.maps\\google.maps-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\google.maps\\google.maps2-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\google.maps\\google.maps2-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\icheck\\icheck-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\icheck\\icheck-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jquery-price-slider.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jquery-price-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jvectormap-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\jvectormap\\jvectormap-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\knob\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\knob\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\knob\\knob-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\knob\\knob-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\login\\login-action.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\login\\login-action.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\main.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\meanmenu\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\meanmenu\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\metisMenu\\metisMenu-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\metisMenu\\metisMenu-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\metisMenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\metisMenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\notification\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\notification\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\notification\\notification-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\notification\\notification-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\rangle-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\rangle-slider\\rangle-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\sparkline\\sparkline-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\sparkline\\sparkline-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote-updated.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote-updated.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\tawk-chat.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\tawk-chat.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\todo\\jquery.todo.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\todo\\jquery.todo.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\wave\\wave-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\wave\\wave-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\wave\\waves.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\wave\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\wizard\\jquery.bootstrap.wizard.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\wizard\\jquery.bootstrap.wizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\wizard\\wizard-active.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\wizard\\wizard-active.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\line-charts.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\line-charts.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\login-register.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\login-register.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\modals.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\modals.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\normal-table.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\normal-table.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\notification.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\notification.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\popovers.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\style.css",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\tabs.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\tooltips.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\typography.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\view-email.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\view-email.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\widgets.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\notika-master\\notika\\green-horizotal\\wizard.html",
+      "PackagePath": "staticwebassets\\notika-master\\notika\\green-horizotal\\wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\01.jpg",
+      "PackagePath": "staticwebassets\\userimages\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\02.jpg",
+      "PackagePath": "staticwebassets\\userimages\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\03.jpg",
+      "PackagePath": "staticwebassets\\userimages\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\04.jpg",
+      "PackagePath": "staticwebassets\\userimages\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\05.jpg",
+      "PackagePath": "staticwebassets\\userimages\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\06.jpg",
+      "PackagePath": "staticwebassets\\userimages\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\07.jpg",
+      "PackagePath": "staticwebassets\\userimages\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\08.jpg",
+      "PackagePath": "staticwebassets\\userimages\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\09.jpg",
+      "PackagePath": "staticwebassets\\userimages\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\10.jpg",
+      "PackagePath": "staticwebassets\\userimages\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\11.jpg",
+      "PackagePath": "staticwebassets\\userimages\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\12.png",
+      "PackagePath": "staticwebassets\\userimages\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\13.jpg",
+      "PackagePath": "staticwebassets\\userimages\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\14.jpg",
+      "PackagePath": "staticwebassets\\userimages\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\wwwroot\\userimages\\15.jpg",
+      "PackagePath": "staticwebassets\\userimages\\15.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NotikaIdentityEmail.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NotikaIdentityEmail.props",
+      "PackagePath": "build\\NotikaIdentityEmail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NotikaIdentityEmail.props",
+      "PackagePath": "buildMultiTargeting\\NotikaIdentityEmail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NotikaIdentityEmail.props",
+      "PackagePath": "buildTransitive\\NotikaIdentityEmail.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
