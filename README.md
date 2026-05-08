@@ -1,22 +1,47 @@
-🔐 .NET Core 9.0 ile Murat Yücedağ hocam'ın Udemy üzerinde yayınladığı "AspNet Core ile Güvenlik: Identity & JWT Masterclass" eğitiminin ilk yarısını tamamladım🚀
+🔐 .NET Core 9.0 ile Identity & JWT Tabanlı Güvenli Web Uygulaması 🚀
 
- Modern kullanıcı deneyimi ve güçlü güvenlik katmanlarıyla tek katmanlı mimaride geliştirdiğim bu web uygulamasında, kullanıcı yönetimi, mesajlaşma, rol kontrolü ve yapay zeka destekli yorum filtresi gibi birçok ileri seviye özellik yer alıyor.
-🎯 Öne Çıkan Özellikler:
-📧 2 Adımlı Mail Doğrulama: Kullanıcılar doğrulama yapmadan giriş yapamaz.
-💬 Mesajlaşma Sistemi: Kullanıcılar gelen ve gönderilen mesajları yönetebilir.
-🔑 Rol Tabanlı Yetkilendirme: Admin rolü ile rol atama ve erişim kısıtlamaları.
-🔐 JWT & Refresh Token Desteği: 5 dakikalık token süresi ve güvenli yenileme mekanizması.
-🧠 ToxicBERT ile Yorum Denetimi: Helsinki-NLP + AI destekli toksik içerik filtresi.
-🟢 Google OAuth: Hızlı ve güvenli sosyal giriş sistemi.
-🔄 Şifre Sıfırlama Sistemi: Mail üzerinden güvenli parola yenileme.
-🧱 Kullanılan Teknolojiler:
-⚙️ .NET Core 9.0
-📧 MailKit SMTP
-🔐 System.IdentityModel.Tokens.Jwt
-🌐 Helsinki-NLP API
-🤖 ToxicBERT
-🟢 Google OAuth
-🏗️ Mimaride Öne Çıkanlar:
-Tek Katmanlı Mimaride Temiz Kod ve Güvenlik Odaklı Yapı
-JWT, HMAC256, SMTP ve 2FA gibi ileri düzey güvenlik pratikleri
-Yapay Zeka Entegrasyonu ile Gerçek Zamanlı Yorum Moderasyonu
+Modern yazılım geliştirme prensipleri ve güvenlik odaklı yaklaşımlar kullanılarak geliştirilen bu projede; kullanıcı doğrulama, rol yönetimi, mesajlaşma sistemi ve yapay zeka destekli yorum denetimi gibi birçok gelişmiş özellik yer almaktadır. 🎯
+
+🛠️ Kullanılan Teknolojiler
+
+💻 C# ve ASP.NET Core 9.0: Modern web uygulaması geliştirme altyapısı.
+
+🔐 ASP.NET Core Identity: Kullanıcı yönetimi, kimlik doğrulama ve yetkilendirme işlemleri.
+
+🪪 JWT & Refresh Token: Güvenli erişim yönetimi ve token yenileme sistemi.
+
+📧 MailKit SMTP: Mail doğrulama ve şifre sıfırlama işlemleri.
+
+🧠 ToxicBERT & Helsinki-NLP: Yapay zeka destekli toksik yorum analizi.
+
+🟢 Google OAuth: Sosyal medya ile hızlı giriş sistemi.
+
+🗄️ MSSQL: Veritabanı yönetimi ve veri saklama altyapısı.
+
+🌐 HTML, CSS & Bootstrap: Responsive ve kullanıcı dostu arayüz tasarımı.
+
+🔍 Kullanıcı İşlevleri
+
+📧 2 Adımlı Mail Doğrulama: Kullanıcılar mail doğrulaması yapmadan sisteme giriş gerçekleştiremez.
+
+💬 Mesajlaşma Sistemi: Kullanıcılar gelen ve gönderilen mesajlarını yönetebilir.
+
+🔑 Rol Tabanlı Yetkilendirme: Admin paneli üzerinden rol atama ve erişim kontrolü sağlanır.
+
+🔐 JWT & Refresh Token Desteği: 5 dakikalık access token süresi ve güvenli refresh token mekanizması uygulanmıştır.
+
+🟢 Google ile Giriş: Kullanıcılar Google hesapları ile hızlı ve güvenli şekilde giriş yapabilir.
+
+🔄 Şifre Sıfırlama Sistemi: Mail doğrulamalı güvenli parola yenileme işlemleri.
+
+🧠 Yapay Zeka Destekli Yorum Moderasyonu: ToxicBERT modeli sayesinde toksik içerikler tespit edilerek filtrelenmektedir.
+
+🏗️ Mimaride Öne Çıkanlar
+
+🧱 Tek Katmanlı Mimaride Temiz Kod Yaklaşımı
+
+🔐 JWT, HMACSHA256, SMTP ve 2FA ile Güvenlik Odaklı Yapı
+
+🤖 Gerçek Zamanlı Yapay Zeka Entegrasyonu ile İçerik Denetimi
+
+⚡ Kullanıcı deneyimini artıran modern ve responsive arayüz tasarımı
